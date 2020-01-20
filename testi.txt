@@ -2,4 +2,4 @@
 1
 no niin toimiiko homma vielä parin kuukauden jälkeenkin?
 
-puppu muutos, ver 0.4
+puppu muutos, ver 0.5
